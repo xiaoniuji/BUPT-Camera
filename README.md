@@ -1,0 +1,2 @@
+# BUPT-Camera
+camera.apk
